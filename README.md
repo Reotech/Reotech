@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reotech
 - 👀 I’m interested in anything Javascript
-- 🌱 I also use Php and laravel in my development
+- 🌱 I also use PHP and Laravel in my development
 - 💞️ Love learning new technologies and building stuff to solve problems
 
 
